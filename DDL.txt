@@ -1,3 +1,5 @@
+DDL
+
 CREATE TABLE Product( 
 Product_id VARCHAR2(20) Primary Key
 Product_Name VARCHAR2(20) CONSTRAINT  NOT NULL
